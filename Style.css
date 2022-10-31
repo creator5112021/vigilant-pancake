@@ -1,0 +1,16 @@
+body{
+    background-color: whitesmoke ;
+    color: black;
+}
+#head{
+    width: 80%;
+    
+}
+#hed, #output{
+    width: 200px;
+    height: 160px;
+    border: 2px dashed grey;
+}
+.capt{
+    background-color: grey;
+}
